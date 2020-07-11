@@ -36,8 +36,6 @@ const COLORS = Object.keys(colors)
   // camelCase -> kebab-case
   .map((s) => s.replace(/([A-Z])/, (sub) => `-${sub.toLowerCase()}`));
 
-console.log(COLORS);
-
 function pickRandomColor(): string {
   // eslint-disable-next-line no-bitwise
   const color = COLORS[~~(Math.random() * COLORS.length)];

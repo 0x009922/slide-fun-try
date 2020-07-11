@@ -1,24 +1,5 @@
-# slide-animation-try
+# slide-fun-try
 
-## Project setup
-```
-yarn install
-```
+## Demo
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Here: https://liquidsolid.github.io/slide-fun-try/
